@@ -8,3 +8,7 @@ body{
 .pmargin {
     margin: 0 0 0 40px;
 }
+
+address{
+    line-height: 50%;
+}
