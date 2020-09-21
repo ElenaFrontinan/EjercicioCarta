@@ -1,0 +1,10 @@
+body{
+    margin: 20px 80px;
+    line-height: 1.6;
+}
+.RightAlign{
+    text-align: right;
+}
+.pmargin {
+    margin: 0 0 0 40px;
+}
